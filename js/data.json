@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "hamza",
+      "birthday": "1997/10/31",
+      "address": "casablanca",
+      "note": 15.21
+    },
+    {
+      "id": 2,
+      "name": "ziad",
+      "birthday": "2017/12/21",
+      "address": "casablanca",
+      "note": 7.5
+    },
+    {
+      "id": 3,
+      "name": "aya",
+      "birthday": "2013/11/24",
+      "address": "casablanca",
+      "note": 8
+    }
+  ]
+}
