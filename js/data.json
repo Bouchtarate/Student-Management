@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Hamza",
+      "birthday": "1997/10/31",
+      "email": "Hamza@gmail.com",
+      "address": "Casablanca",
+      "note": 15
+    },
+    {
+      "id": 2,
+      "name": "Ziad",
+      "birthday": "2017/12/22",
+      "email": "Ziad@gmail.com",
+      "address": "Casablanca",
+      "note": 8
+    },
+    {
+      "id": 3,
+      "name": "Aya",
+      "birthday": "2013/11/14",
+      "email": "Aya@gmail.com",
+      "address": "Casablanca",
+      "note": 8.5
+    }
+  ]
+}
